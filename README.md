@@ -17,7 +17,7 @@ It includes a custom Python package, a Flask API server, and automated unit test
 - Supports both **GET** and **POST** methods.
 - Handles invalid or blank input gracefully.
 - Fully tested with Python's `unittest`.
-- Achieves a **10/10 PyLint score** after applying docstrings and fixes.
+  
 
 ---
 
